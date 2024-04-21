@@ -1,0 +1,58 @@
+
+1.Contexto do projeto 
+O nosso projeto “Tech Food” surge da necessidade de promover uma alimentação saudável e equilibrada, visando melhorar a qualidade de vida das pessoas. A nossa ideia é criar um site que seja uma fonte confiável de informações, dicas e recursos para uma alimentação saudável.
+
+O problema identificado pelo grupo foi a dificuldade do usuário de compreender o seu verdadeiro estado de saúde, dificuldades em manter uma alimentação equilibrada, e compreender a função de cada nutriente para o bom funcionamento do organismo
+
+O objetivo do grupo através do site é facilitar o entendimento do usuário a alcançar uma alimentação balanceada através de uma dieta adequada para o IMC daquele usuário, além disso buscamos trazer clareza a respeito da função que cada nutriente exerce no organismo, e apresentar alimentos que disponibilizem estes nutrientes.
+
+Acreditamos que o site será bem aceito pelo usuário visto que em nossas entrevistas obtivemos como resposta que 70% dos entrevistados não possuem ciência da função dos alimentos que ingerem no seu organismo, além disso 90% dos usuários afirmaram que sentem dificuldade em manter uma dieta balanceada
+
+O nosso público alvo são jovens e adultos entre 20 e 35 anos, que buscam manter uma dieta balanceada ou perder peso de forma saudável, compreendendo melhor os nutrientes ingeridos e sua função no organismo.
+
+2.Especificação do Projeto
+PERSONAS :
+Jorge 
+Idade: 30 anos
+Interesses: Família, trabalho, saúde.
+Hobbies: Assistir TV, caminhar.
+Estilo de vida: Jorge é um homem adulto com uma vida agitada entre o trabalho e a família. Ele se preocupa com sua saúde, mas tem pouco conhecimento sobre nutrição e não vê a necessidade de investir em acompanhamento profissional ou sistemas pagos. Seu desafio é encontrar maneiras simples e acessíveis de melhorar sua alimentação sem comprometer suas finanças ou rotina.
+
+Richard
+Idade: 19 anos
+Interesses: Esportes, saúde, estudos.
+Hobbies: Praticar esportes, sair com amigos.
+Estilo de vida: 
+Richard é um jovem ativo que está consciente da importância da alimentação para seu desempenho nos esportes. Ele está em processo de mudança em relação aos seus hábitos alimentares, mas atualmente não pode buscar acompanhamento profissional. Seu desafio é encontrar recursos acessíveis e eficazes para melhorar sua dieta e alcançar seus objetivos esportivos.
+
+Lívia 
+Idade: 21 anos
+Interesses: Saúde, bem-estar, moda.
+Hobbies: Cuidar da aparência, redes sociais.
+Estilo de vida: Lívia  é uma jovem confiante e preocupada com sua saúde e bem-estar. Ela está satisfeita com seu corpo, mas reconhece que sua alimentação não é equilibrada. Ela tem interesse em buscar acompanhamento profissional e está disposta a investir em recursos que a ajudem a adotar hábitos alimentares mais saudáveis. Seu desafio é conciliar sua vida agitada com uma dieta equilibrada e encontrar formas de se manter motivada e engajada em seus objetivos de saúde.
+
+Marta Oliveira
+Idade: 45 anos
+Interesses: Família, culinária, viagens.
+Hobbies: Cozinhar, ler, jardinagem.
+Estilo de vida: Marta é uma mulher de meia-idade que valoriza a saúde e o bem-estar de sua família. Ela se esforça para oferecer refeições saudáveis em casa, mas reconhece que nem sempre sua dieta é equilibrada. Ela tem algum conhecimento sobre nutrição, mas gostaria de aprender mais para melhorar a alimentação de sua família. Embora esteja aberta a buscar acompanhamento profissional, ela prefere opções acessíveis e práticas para incorporar hábitos alimentares mais saudáveis ao seu dia a dia. Seu desafio é encontrar maneiras simples e econômicas de tornar sua alimentação mais nutritiva, sem comprometer o tempo com a família ou suas finanças.
+
+Com base nós entrevistados criamos requisitos do nosso projeto. Esses são eles:
+1. Personalização de Conteúdo:
+   - Implementar recursos de personalização para oferecer recomendações de dieta e nutrição adequadas às preferências e necessidades individuais de cada usuário.
+2. Receitas Saudáveis e Acessíveis:
+   - Disponibilizar uma variedade de receitas saudáveis, práticas e econômicas, adequadas para diferentes estilos de vida e habilidades culinárias.
+3. Acessibilidade Financeira:
+   - Garantir que os recursos oferecidos sejam acessíveis financeiramente para os usuários, com opções gratuitas e outras de baixo custo disponíveis.
+4. Feedback e Avaliação de Usuários:
+    - Permitir que os usuários forneçam feedback sobre o conteúdo e recursos do site, além de avaliarem a eficácia das recomendações e ferramentas disponíveis, possibilitando melhorias contínuas.
+5. Parcerias com Profissionais de Saúde:
+    - Estabelecer parcerias com profissionais de saúde, como nutricionistas e médicos, para oferecer orientações e suporte especializado aos usuários que desejam um acompanhamento mais personalizado e profissional.
+3.Projeto de Interface
+Protótipo Interativo
+https://www.figma.com/proto/MmSH9kLYi1avOr8EgeBNd9/TECH-FOOD?node-id=2-10&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A10&mode=design&t=RB7nCI2y1SYTChfg-1
+
+4.Metodologia
+A equipe se reuniu na universidade para as resoluções propostas em sala de aula pelo professor, em casa Amanda ficou responsável pela administração do quadro kanban no github, pelo preenchimento dos templates do desing thinkin, e criação das personas, Brenda fez a documentação do projeto, e projetou o nosso layout de site, Maria Eliza criou o rosto para nossas personas e ficou responsável por nossa apresentação power point, a Julia foi responsável por criar a identidade visual para o projeto e participou do desenvolvimento do layout de site.
+
+
